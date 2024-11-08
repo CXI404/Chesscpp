@@ -1,14 +1,14 @@
 # Ignore system files and directories
 /Application Data/
-/Cookies/
-/Local Settings/
-/My Documents/
-/NetHood/
-/PrintHood/
-/Recent/
-/SendTo/
-/Start Menu/
-/Templates/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
 
 # Ignore other specific files or directories
 .bash_history
@@ -29,24 +29,7 @@ Pictures/
 Saved Games/
 Searches/
 Videos/
-# Ignore system and user directories
-.bash_history
-.gitconfig
-.lesshst
-.vscode/
-AppData/
-Contacts/
-Desktop.ini
-Documents/
-Downloads/
-Favorites/
-Links/
-Music/
-OneDrive/
-Pictures/
-Saved Games/
-Searches/
-Videos/
-NTUSER.DAT*
+
+# Ignore project-specific directory
 Chesscpp/
 
