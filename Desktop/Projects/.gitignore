@@ -1,0 +1,31 @@
+# Ignore system files and directories
+/Application Data/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+
+# Ignore other specific files or directories
+.bash_history
+.gitconfig
+.lesshst
+.vscode/
+AppData/
+C/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
