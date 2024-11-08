@@ -1,16 +1,16 @@
 # Ignore system files and directories
 /Application Data/
-Cookies/
-Local Settings/
-My Documents/
-NetHood/
-PrintHood/
-Recent/
-SendTo/
-Start Menu/
-Templates/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
 
-# Ignore other specific files or directories
+# Ignore user-specific files
 .bash_history
 .gitconfig
 .lesshst
@@ -30,6 +30,11 @@ Saved Games/
 Searches/
 Videos/
 
+# Ignore files that might appear on Windows
+desktop.ini
+Thumbs.db
+
 # Ignore project-specific directory
 Chesscpp/
+
 
