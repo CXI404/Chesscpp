@@ -29,3 +29,23 @@ Pictures/
 Saved Games/
 Searches/
 Videos/
+# Ignore system and user directories
+.bash_history
+.gitconfig
+.lesshst
+.vscode/
+AppData/
+Contacts/
+Desktop.ini
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+NTUSER.DAT*
+
